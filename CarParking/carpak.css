@@ -1,0 +1,24 @@
+h1{
+text-align: center;
+}
+.main { 
+    padding: 25px;
+    background-color: red;
+}
+
+body{
+background-color: red;
+}
+input{
+    margin: 15px;
+}
+.form_style{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
